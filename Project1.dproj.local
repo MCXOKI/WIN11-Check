@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.08.09 11:13:46.209,=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.08.09 11:13:53.928,=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025.08.09 11:14:02.199,C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Win11CompatibilityCheck.pas=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025.08.09 11:24:58.187,C:\Users\ХОКИ\Desktop\исходники\Новые\Win11Check\Win11CompatibilityCheck.pas=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Win11CompatibilityCheck.pas</Transaction>
+    <Transaction>2025.08.09 11:25:01.290,C:\Users\ХОКИ\Desktop\исходники\Новые\Win11Check\Unit1.dfm=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025.08.09 11:25:01.290,C:\Users\ХОКИ\Desktop\исходники\Новые\Win11Check\Unit1.pas=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.08.09 11:25:02.683,C:\Users\ХОКИ\Desktop\исходники\Новые\Win11Check\Project1.dproj=C:\Users\ХОКИ\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Win11CompatibilityCheck.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
